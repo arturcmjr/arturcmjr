@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  I'm a <strong>web/game developer</strong> who can work well on every development layer. I'm currently studying in Dublin, Ireland. I'm open for job offers nearby.
+  I'm a <strong>web/game developer</strong> who can work well on every development layer. I'm currently studying in Dublin, Ireland and open to job offers nearby.
 </p>
 
 <p align="left">
