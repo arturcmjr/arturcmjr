@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  I'm a <strong>web/game developer</strong> who can work well on every development layer. I'm currently studying in Dublin, Ireland and open to job offers nearby.
+  I'm a <strong>web/game developer</strong> who can work well on every development layer. I live next to Brasília, Brazil. I'm open to job offers on-site nearby or remotely anywhere around the globe.
 </p>
 
 <p align="left">
@@ -42,7 +42,7 @@
   <a href="https://arju.dev" alt="My Portfolio">
   <img src="https://img.shields.io/static/v1?message=My%20Portfolio&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAMFBMVEX///9OzKNOzKNOzKNOzKNOzKNOzKNOzKNOzKNOzKNOzKNOzKNOzKNOzKNOzKNOzKMFB/T0AAAAD3RSTlMAESIzRFVmd4iZqrvM3e5GKvWZAAAAv0lEQVR42t2SiWrGIBAG16jx+M3O+79tyS6xVShQCFeHIwLDl73kPTKQ70fhpqddaCjVBWc3lIK6cFlel4WIBoiPIJ1rFQpNBmUKH8YqDLJUxiMUTP4mQJAMYRbZZOFkmJVnm7LScbr/IkPZm3TUBJtKkB8kCD7N6ELaIqx+K6LONpeIQfUvwwWPeJXEjYXj2XD+STDaPxL0d6Hbyi47lrjd/Vls2dVySLbN7eRu9BCRQzHyfvbQDnvGBnySvMUX+GQO5ePKWE0AAAAASUVORK5CYII=&color=232931&logoColor=white&label=%20&style=flat"/></a>
 
-  <a href="https://wa.me/353831246901" alt="WhatsApp">
+  <a href="https://wa.me/5561998362112" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat&labelColor=25d366&logo=whatsapp&logoColor=white"/></a>
 
   <a href="https://www.instagram.com/arturcmjr/" alt="Instagram">
